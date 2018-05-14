@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote name="teamwin" fetch="https://github.com/TeamWin/" />
-<remote name="lineageos" fetch="https://github.com/lineageos/" />
-<project path="device/oneplus/cheeseburger" name="android_device_oneplus_cheeseburger" groups="device" remote="teamwin" revision="android-8.1" />
-<project path="device/oneplus/dumpling" name="android_device_oneplus_dumpling" groups="device" remote="teamwin" revision="android-8.1" />
-<project path="kernel/oneplus/msm-4.4/kernel" name="android_kernel_oneplus_msm8998" groups="device" remote="lineageos" revision="lineage-15.1" />
+  <remote name="teamwin" fetch="https://github.com/TeamWin/" />
+  <remote name="lineageos" fetch="https://github.com/lineageos/" />
+  <project path="device/oneplus/cheeseburger" name="android_device_oneplus_cheeseburger" groups="device" remote="teamwin" revision="android-8.1" />
+  <project path="device/oneplus/dumpling" name="android_device_oneplus_dumpling" groups="device" remote="teamwin" revision="android-8.1" />
+  <project path="kernel/oneplus/msm-4.4/kernel" name="android_kernel_oneplus_msm8998" groups="device" remote="lineageos" revision="lineage-15.1" />
 </manifest>
